@@ -1,0 +1,12 @@
+.broccoli{
+    color: red;
+}
+#vegetable{
+    color: green; /* class select all the element using that class but id is unique for all*/
+}
+.circular{
+    font-size: large;
+}
+h1:hover{
+    color: gold;
+}
